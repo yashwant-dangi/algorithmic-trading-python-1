@@ -7,3 +7,9 @@ __pycache__
 **/recommended_trades.xlsx
 **/momentum_strategy.xlsx
 venv/
+
+pyvenv.cfg
+.Python
+bin/
+lib/
+share/
